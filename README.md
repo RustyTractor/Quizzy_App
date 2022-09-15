@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# About the project
+You can try the game on the following link: https://main--starlit-biscochitos-7fff44.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
