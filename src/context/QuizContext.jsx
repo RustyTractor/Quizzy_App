@@ -1,7 +1,6 @@
-import { createContext, useEffect, useState } from "react";
+import { createContext, useState } from "react";
 import { difficultiesData, topicsData } from "../data/allKind";
 import { addQuestions } from "../data/dbFunctions";
-import { toast } from "react-toastify";
 
 /**
  * Quiz Context.
