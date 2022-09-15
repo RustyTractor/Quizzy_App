@@ -1,0 +1,14 @@
+Telepítendő függőségek:
+
+1. dexie
+2. dexie-react-hooks
+3. react-router-dom
+4. react-toastify
+5. rxjs
+
+Egyéb megjegyzés:
+
+Mivel kézzel "mókoltam" össze a ServiceWorkert ezért minden alkalommal,
+mikor változtatunk valamit a scripten és futtatunk egy "npm run build" -et,
+akkor a public mappában található ServiceWroker.js fileban a
+cacheAssets-ben is át kell írni a hivatkozott fájlok nevét a megváltozott statikus fájlok nevére.
